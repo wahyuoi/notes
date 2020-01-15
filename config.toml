@@ -1,3 +1,19 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hugo-tailwind-journal"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[params]
+    author = "Gede Wahyu"
+    avatar = "images/avatar.jpeg"
+    description = "A minimalist journal template for Hugo using TailwindCSS."
+    tagline = "A minimalist journal template for Hugo using TailwindCSS."
+
