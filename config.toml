@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "A Big Notes"
 theme = "hugo-tailwind-journal"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -8,12 +8,9 @@ pygmentsUseClasses = true
 [taxonomies]
     tag = "tags"
 
-[permalinks]
-    posts = "/posts/:year/:month/:title/"
-
 [params]
     author = "Gede Wahyu"
     avatar = "images/avatar.jpeg"
-    description = "A minimalist journal template for Hugo using TailwindCSS."
-    tagline = "A minimalist journal template for Hugo using TailwindCSS."
+    description = "Simple notes, curated TIL"
+    tagline = "Persistence Memory"
 
