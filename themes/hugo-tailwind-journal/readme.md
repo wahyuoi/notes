@@ -1,5 +1,7 @@
 # TailwindCSS Journal
 
+A copy from [ianrodrigues repo](https://github.com/ianrodrigues/hugo-tailwind-journal)
+
 _TailwindCSS Journal_ is a minimalist theme for [Hugo](https://gohugo.io) using [TailwindCSS](https://tailwindcss.com).
 
 Based on [Journal](https://dashdashzako.github.io/hugo-journal-demo/), it also focuses on improving reading experience with no fancy effect.
