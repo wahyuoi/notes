@@ -1,4 +1,5 @@
 baseURL = "/"
+googleAnalytics = "UA-126108692-2"
 languageCode = "en-us"
 title = "A Big Notes"
 theme = "hugo-tailwind-journal"
