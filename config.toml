@@ -3,6 +3,7 @@ googleAnalytics = "UA-126108692-2"
 languageCode = "en-us"
 title = "A Big Notes"
 theme = "hugo-tailwind-journal"
+disqusShortname = "gedewahyu"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
