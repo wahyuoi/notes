@@ -1,7 +1,7 @@
 ---
 title: 'Remote: Async First'
 date: 2020-03-16T15:12:09.148Z
-tag:
+tags:
   - til
 ---
 *It will be first part of my journey to enable remote & distributed team.*
