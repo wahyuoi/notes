@@ -1,7 +1,7 @@
 ---
 title: 'Go: Equals ignore case'
 date: 2020-02-15T04:13:38.446Z
-tag:
+tags:
   - til
 ---
 Comparing 2 strings ignoring case can be achieved using 2 approaches:
