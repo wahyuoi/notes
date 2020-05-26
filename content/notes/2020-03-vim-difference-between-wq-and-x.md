@@ -1,7 +1,7 @@
 ---
 title: 'Vim: Difference between :wq and :x'
 date: 2020-03-29T14:10:23.637Z
-tag:
+tags:
   - til
 ---
 [How do I exit the Vim editor?](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor)
