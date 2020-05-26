@@ -1,7 +1,7 @@
 ---
 title: 'Java: Recursive Type Declaration'
 date: 2020-03-11T15:36:53.619Z
-tag:
+tags:
   - til
 ---
 Just playing around jackson library, and found interesting interface, VisibilityChecker.
