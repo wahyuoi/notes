@@ -4,6 +4,10 @@ date: 2020-11-16T09:33:55.085Z
 tags:
   - til
 ---
+![](/images/photo5877322480543184082.jpg)
+
+
+
 A boolean can store either True or False as value. It will reserve 1 byte memory.
 
 Here how to check the size of any type:
@@ -18,11 +22,7 @@ func Test(t *testing.T) {
 }
 ```
 
-
-
 So if you have more than 1 boolean variable, you can merge it into 1 integer and use bitwise operation. This will reduce number of varibale passing around
-
-
 
 ```go
 // from this
