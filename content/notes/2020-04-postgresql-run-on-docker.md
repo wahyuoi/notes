@@ -1,7 +1,7 @@
 ---
 title: 'Postgresql: Run on Docker'
 date: 2020-04-06T17:33:59.511Z
-tags:
+tag:
   - til
 ---
 So this midnight I tried to run postgresql 10 on docker. Few notes I get so far:
