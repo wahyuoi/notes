@@ -1,7 +1,7 @@
 ---
 title: Free Up Postgresql Storage
 date: 2020-01-30T15:30:40.957Z
-tags:
+tag:
   - story
 ---
 When your storage is nearly full, you have 2 options to free it up:
