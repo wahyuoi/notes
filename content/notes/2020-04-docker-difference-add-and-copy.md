@@ -1,7 +1,7 @@
 ---
 title: 'Docker: Difference ADD and COPY'
 date: 2020-04-05T17:15:01.043Z
-tags:
+tag:
   - til
 ---
 When creating docker image, sometimes we need to copy few files. We can use ADD or COPY command to copy files from our machine to docker image. Both have similar purpose, with different implementation
