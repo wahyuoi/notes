@@ -1,7 +1,7 @@
 ---
 title: 'Go: Length by Rune or Byte?'
 date: 2020-02-20T02:30:45.293Z
-tags:
+tag:
   - til
 ---
 If I need to find the length of a string, I use built-in function `len`.
