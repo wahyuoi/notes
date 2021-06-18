@@ -12,6 +12,6 @@ The terminal will provide the PID for that process, like this one
 
 
 
-To resume the process, I need to invoke `fg` with the PID, 
+To resume the process, I need to invoke `fg` with the process name, 
 
-> fg 25148
+> fg %vim
