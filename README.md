@@ -1,5 +1,5 @@
 # notes
-mostly TILs, random notes, persistence memory for sure!
+mostly TILs, random notes, persistent memory for sure!
 
 ## published on [gedewahyu.com](htts://gedewahyu.com)
 - leveraging [netlify](https://www.netlify.com/) as static hosting
