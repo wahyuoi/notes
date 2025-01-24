@@ -14,5 +14,5 @@ pygmentsUseClasses = true
     author = "Gede Wahyu"
     avatar = "images/avatar.jpeg"
     description = "Simple notes, curated TIL"
-    tagline = "Persistence Memory"
+    tagline = "Persistent Memory"
 
